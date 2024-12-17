@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "134692902624",
+    "project_id": "fir-partiri",
+    "storage_bucket": "fir-partiri.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134692902624:android:040b86e643caef16456285",
+        "android_client_info": {
+          "package_name": "com.partiri.firebasePartiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134692902624-i948hgr5kq5p55ckbts6o8cvjfrf7bpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.partiri.firebasePartiri",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "134692902624-jggcgipae8cuu69hd15cg5b97s8vvuim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjb3RatmVS2-kOYltCkqjffGn7r0U2os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134692902624-jggcgipae8cuu69hd15cg5b97s8vvuim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134692902624-eej2ncbnedcnqs0rqke3fokn5ntavs9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.partiri.firebasePartiri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
